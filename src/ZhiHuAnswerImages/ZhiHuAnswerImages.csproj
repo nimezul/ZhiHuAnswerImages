@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4F8DF865-11C9-4897-AADD-73FF91732630}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ZhiHuBeautity</RootNamespace>
-    <AssemblyName>ZhiHuBeautity</AssemblyName>
+    <RootNamespace>ZhiHuAnswerImages</RootNamespace>
+    <AssemblyName>ZhiHuAnswerImages</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
